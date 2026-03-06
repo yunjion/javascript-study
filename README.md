@@ -232,3 +232,4 @@ arr.forEach(function(item) {
 - 자바스크립트 기본 문법 완전 이해
 - 바닐라 JS 기반 웹 동작 구현
 - GitHub에 학습 기록 관리
+- hdie
